@@ -22,34 +22,34 @@ Mise en place des différentes techniques d’injection
 👉 Instanciation directe avec new
 ❌ Couplage fort
 
-![capture 1](captures/1.png)
+ ![capture 1](Captures/1.png)
 
 🔹 b) Injection dynamique (Pres2)
 
 👉 Utilisation de la réflexion (Class.forName)
 ✔ Couplage réduit
 
-![capture 2](captures/2.png)
+![capture 2](Captures/2.png)
 
 🔹 c) Injection avec Spring XML
 
 👉 Configuration via fichier XML Spring
 
-![capture 3](captures/3.png)
+![capture 3](Captures/3.png)
 
 🔹 d) Injection avec Spring Annotations
 
 👉 Utilisation de @Component, @Autowired
 
-![capture 4](captures/4.png)
+![capture 4](Captures/4.png)
 
 🔹 Test Annotations
 
-![capture 5](captures/5.png)
+![capture 5](Captures/5.png)
 
 🔹 Test XML
 
-![capture 6](captures/6.png)
+![capture 6](Captures/6.png)
 
 📁 Structure du projet Partie 1
 ma.raf.partie1.ioc
@@ -108,7 +108,7 @@ public void setDao(IDao dao)
 </beans>
 🧪 Résultat
 
-![capture 7](captures/7.png)
+![capture 7](Captures/7.png)
 
 📁 Structure du projet Partie 2
 ma.raf.partie2.framework
