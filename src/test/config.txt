@@ -1,0 +1,4 @@
+ma.raf.partie1.ioc.dao.DaoImpl
+ma.raf.partie1.ioc.metier.MetierImpl
+ma.raf.partie2.framework.dao.DaoImpl
+ma.raf.partie2.framework.metier.MetierImpl
